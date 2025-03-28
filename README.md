@@ -9,7 +9,8 @@
 ✔ Pure HTML & CSS implementation (No JavaScript)  
 
 ## 📷 Preview  
-![Job Application Form](image-link-here)  
+![Job Application Form](![image](https://github.com/user-attachments/assets/35e2f049-7f9e-44a4-a42e-9c659ef9357c)
+)  
 
 ## 🔗 Live Demo  
 👉 [Click here to view the live project](https://praveenkr398.github.io/JobApplication/)  
