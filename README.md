@@ -9,7 +9,7 @@
 ✔ Pure HTML & CSS implementation (No JavaScript)  
 
 ## 📷 Preview  
-![Job Application Form](![image](https://github.com/user-attachments/assets/35e2f049-7f9e-44a4-a42e-9c659ef9357c)
+![Job Application Form](https://github.com/user-attachments/assets/35e2f049-7f9e-44a4-a42e-9c659ef9357c)
 )  
 
 ## 🔗 Live Demo  
