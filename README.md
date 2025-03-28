@@ -1,3 +1,26 @@
-myProject: Job Application Page:
-live: https://praveenkr398.github.io/JobApplication/
-![image](https://github.com/user-attachments/assets/5238d0ea-fac9-4035-b47b-f8b19609eb4d)
+# Job Application Form - HTML & CSS Only  
+
+🚀 A simple and clean **Job Application Form** built using only **HTML & CSS**. This project showcases a structured layout for users to submit their job applications effortlessly.  
+
+## 🌟 Features  
+✔ User-friendly UI with a minimalistic design  
+✔ Fields for First Name, Last Name, Email ID, Job Profile, PIN Code, Joining Date, and File Upload  
+✔ Responsive layout for a seamless experience  
+✔ Pure HTML & CSS implementation (No JavaScript)  
+
+## 📷 Preview  
+![Job Application Form](image-link-here)  
+
+## 🔗 Live Demo  
+👉 [Click here to view the live project](https://praveenkr398.github.io/JobApplication/)  
+
+## 🛠 Technologies Used  
+- HTML5  
+- CSS3  
+
+## 📂 Project Repository  
+🔗 [GitHub Repository](https://github.com/Praveenkr398/JobApplication)  
+
+## 📩 Contact  
+For any queries or improvements, feel free to connect:  
+🔗 [LinkedIn](https://www.linkedin.com/in/Praveenkr398)  
